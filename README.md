@@ -16,7 +16,7 @@ Our workshop is divided into 3 parts
 | --- | ---  | --- |
 | Session 1 | [Graph Neural Networks Theory and Application](https://github.com/vmenan/gnn_workshop/blob/main/Slides/Graph%20Neural%20Networks%20Theory%20and%20Application%20%20%20.pptx)|   -----------------
 | Session 2 | [Tutorial 1: GCN Slides](https://github.com/vmenan/gnn_workshop/blob/main/Slides/Tutorial%201%20-%20GCN.pptx) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vmenan/gnn_workshop/blob/main/Notebooks/Tutorial_1.ipynb)
-| Session 3 | [Tutorial 2: GNN Application]| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vmenan/gnn_workshop/blob/main/Notebooks/Tutorial_2.ipynb)
+| Session 3 | Tutorial 2: GNN Application| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vmenan/gnn_workshop/blob/main/Notebooks/Tutorial_2.ipynb)
 
 
 # Resources
